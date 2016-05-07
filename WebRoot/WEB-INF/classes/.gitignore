@@ -1,0 +1,9 @@
+/applicationContext-common.xml
+/applicationContext-dao.xml
+/applicationContext-service.xml
+/applicationContext.xml
+/cn/
+/db.properties
+/log4j.properties
+/springmvc.xml
+/sqlMapConfig.xml
